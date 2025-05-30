@@ -17,19 +17,17 @@ A simple React component that displays tabular data with pagination and page siz
 
 1. Clone the repo:
 
-   ```bash
    git clone https://github.com/Satvikpatil7/React-Data-Table-with-Pagination.git
-````
 
 2. Install dependencies:
 
-   ```bash
+
    cd React-Data-Table-with-Pagination
    npm install
-   ```
+
 
 3. Run the app:
 
-   ```bash
+
    npm start
-   ```
+
